@@ -1,3 +1,3 @@
-# ML-Project- Survey on Customer Churn Prediction in 
+# ML-Project- Survey on Customer Churn Prediction in telecom industry 
 
-Telecom Industry
+
