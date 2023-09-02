@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 
 scaler=StandardScaler()
 
-df_= pd.read_csv("C:/Users/prath/Downloads/Model/Customer Churn.csv")
+df_= pd.read_csv("Model/Customer Churn.csv")
 scaler.fit_transform(df_)
 # scaler.transform(df_)
 
