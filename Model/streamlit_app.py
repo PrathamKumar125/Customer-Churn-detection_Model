@@ -12,7 +12,7 @@ scaler.fit_transform(df_)
 # scaler.transform(df_)
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/prath/Downloads/Model/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('Model/trained_model.sav', 'rb'))
 
 
 # creating a function for Prediction
